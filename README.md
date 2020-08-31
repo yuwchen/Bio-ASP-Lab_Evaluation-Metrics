@@ -85,5 +85,5 @@ Narrow Band – Raw MOS (int16)
 
 
 
-## STOI  
+## Short-Time Objective Intelligibility (STOI)  
 
