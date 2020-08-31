@@ -1,6 +1,6 @@
 # Bio-ASP Lab Evaluation Metrics
 
-##PESQ
+## PESQ
 
-##STOI
+## STOI
 
